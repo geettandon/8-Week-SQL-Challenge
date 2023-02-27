@@ -8,8 +8,8 @@ Danny finds a few smart friends to launch his new startup Foodie-Fi in 2020 and 
 Danny created Foodie-Fi with a data driven mindset and wanted to ensure all future investment decisions and new features were decided using data. This case study focuses on using subscription style digital data to answer important business questions.
 
 ## Problem Statement
-Danny has shared the data design for Foodie-Fi and also short descriptions on each of the database tables - our case study focuses on only 2 tables but there will be a challenge to create a new table for the Foodie-Fi team.
-This case study is split into an initial data understanding question before diving straight into data analysis questions before finishing with 1 single extension challenge.
+Danny has shared the data design for Foodie-Fi and also short descriptions on each of the database tables - our case study focuses on only 2 tables.
+This case study is split into an initial data understanding question before diving straight into data analysis questions.
 
 ## Tables
 
