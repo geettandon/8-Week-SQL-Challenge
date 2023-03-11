@@ -16,3 +16,10 @@ Customers are allocated cloud data storage limits which are directly linked to h
 The management team at Data Bank want to increase their total customer base - but also need some help tracking just how much data storage their customers will need.
 
 This case study is all about calculating metrics, growth and helping the business analyse their data in a smart way to better forecast and plan for their future developments!
+
+## Tables
+
+1. Regions
+
+![image](https://user-images.githubusercontent.com/64631428/224488770-e861b627-7b34-4664-b397-a8e3d2c33ef7.png)
+
