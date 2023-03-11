@@ -35,4 +35,4 @@ Link to Case Study 3 Solution: https://github.com/geettandon/8-Week-SQL-Challeng
 
 Link to Case Study 4: https://8weeksqlchallenge.com/case-study-4/
 
-Link to Case Study 4 Solution: 
+Link to Case Study 4 Solution: https://github.com/geettandon/8-Week-SQL-Challenge/tree/main/Case%20Study%204%20-%20data_bank
