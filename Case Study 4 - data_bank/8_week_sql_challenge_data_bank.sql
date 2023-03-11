@@ -45,7 +45,7 @@ SELECT *,
     end_date - start_date AS difference
 FROM customer_nodes
 ORDER BY difference DESC
-LIMIT 50;
+LIMIT 10;
 
 /* Seeing the result, end_date has some rows with wrong date. This is definitely result of an error.
 We will remove all these rows to calculate the correct average. */
