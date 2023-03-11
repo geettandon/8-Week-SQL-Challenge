@@ -11,15 +11,15 @@ This repository contains solutions for the same case studies.
 
 Link to Case Study 1: https://8weeksqlchallenge.com/case-study-1/
 
-Link to Case Study 1 Solution: 
+Link to Case Study 1 Solution: https://github.com/geettandon/8-Week-SQL-Challenge/tree/main/Case%20Study%201%20-%20dannys_diner
 
-## Case Study 2:
+## Case Study 2
 
 ![image](https://user-images.githubusercontent.com/64631428/221579076-75e8ead3-1eac-4b6b-9974-963e678f6100.png)
 
 Link to Case Study 2: https://8weeksqlchallenge.com/case-study-2/
 
-Link to Case Study 2 Solution: 
+Link to Case Study 2 Solution: https://github.com/geettandon/8-Week-SQL-Challenge/tree/main/Case%20Study%202%20-%20pizza_runner
 
 ## Case Study 3: 
 
@@ -27,4 +27,12 @@ Link to Case Study 2 Solution:
 
 Link to Case Study 3: https://8weeksqlchallenge.com/case-study-3/
 
-Link to Case Study 3 Solution: 
+Link to Case Study 3 Solution: https://github.com/geettandon/8-Week-SQL-Challenge/tree/main/Case%20Study%203%20-%20foodie_fi
+
+## Case Study 4:
+
+![image](https://user-images.githubusercontent.com/64631428/224488309-624dd020-6012-4d8e-b2d1-ffa289041312.png)
+
+Link to Case Study 4: https://8weeksqlchallenge.com/case-study-4/
+
+Link to Case Study 4 Solution: 
