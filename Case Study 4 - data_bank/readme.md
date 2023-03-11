@@ -23,3 +23,13 @@ This case study is all about calculating metrics, growth and helping the busines
 
 ![image](https://user-images.githubusercontent.com/64631428/224488770-e861b627-7b34-4664-b397-a8e3d2c33ef7.png)
 
+2. Customer Nodes
+
+![image](https://user-images.githubusercontent.com/64631428/224488862-a4a428d0-8dbc-43f5-a19f-a7454ffd447f.png)
+
+3. Customer Transactions
+
+![image](https://user-images.githubusercontent.com/64631428/224488897-448a48e5-ca7f-4739-b7c5-81b5285da3d0.png)
+
+
+
