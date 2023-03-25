@@ -36,3 +36,11 @@ Link to Case Study 3 Solution: https://github.com/geettandon/8-Week-SQL-Challeng
 Link to Case Study 4: https://8weeksqlchallenge.com/case-study-4/
 
 Link to Case Study 4 Solution: https://github.com/geettandon/8-Week-SQL-Challenge/tree/main/Case%20Study%204%20-%20data_bank
+
+## Case Study 5:
+
+![image](https://user-images.githubusercontent.com/64631428/227723208-8d8d5137-780f-4251-adb7-1365f381eb2d.png)
+
+Link to Case Study 5: https://8weeksqlchallenge.com/case-study-5/
+
+Link to Case Study 5 Solutions: https://github.com/geettandon/8-Week-SQL-Challenge/tree/main/Case%20Study%205%20-%20data_mart
